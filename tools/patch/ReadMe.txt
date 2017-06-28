@@ -13,4 +13,4 @@ For more help see the Apache Camel documentation
 
     http://camel.apache.org/
 
-1.jdbc¹¤¾ß
+1.jdbc util
